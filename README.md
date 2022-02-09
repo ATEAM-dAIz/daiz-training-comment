@@ -17,3 +17,5 @@ Colab pro(p100)
 [WellnessConversation-LanguageModel](https://github.com/nawnoes/WellnessConversation-LanguageModel)
 
 [KoBERT](https://github.com/SKTBrain/KoBERT)
+
+[pytorch에서 EarlyStop 이용하기](https://quokkas.tistory.com/37)
